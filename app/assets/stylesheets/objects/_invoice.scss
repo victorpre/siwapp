@@ -145,7 +145,7 @@
   .invoice-col--total {
     text-align: center;
     border-radius: 0.25rem;
-    background: $gray-lightest;
+    background: $gray-100;
     color: $gray;
 
     label {
@@ -190,8 +190,8 @@
     .form-control-static {
       padding: 0.375rem 0.75rem;
       color: $gray;
-      background: $gray-lightest;
-      border: 1px solid $gray-lighter;
+      background: $gray-100;
+      border: 1px solid $gray-200;
       border-radius: 0.25rem;
     }
   }
@@ -234,7 +234,7 @@
   }
 
   .amounts-total {
-    background: $gray-dark;
+    background: $gray-800;
     color: white;
     font-weight: bold;
   }
@@ -256,7 +256,7 @@
 }
 
 .label-small-link {
-  font-size: $font-size-xs;
+  font-size: $font-size-sm;
   line-height: 2;
   float: right;
   display: inline-block;

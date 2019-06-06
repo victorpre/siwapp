@@ -27,7 +27,7 @@ input[type="date"].form-control {
 
 .form-group label {
   font-size: 80%;
-  color: $gray-light;
+  color: $gray-100;
   text-transform: uppercase;
 }
 
@@ -44,7 +44,7 @@ input[type="date"].form-control {
 .invoice-preview {
   width: 770px;
   height: 1090px;
-  border: 2px solid $gray-lighter;
+  border: 2px solid $gray-500;
 }
 
 // To place buttons at the bottom right of the page

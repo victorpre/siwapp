@@ -56,10 +56,10 @@ h5, h6 {
   }
 
   &:hover {
-    background: $gray-lightest;
+    background: $gray-500;
   }
   &:active {
-    background: $gray-lighter;
+    background: $gray-200;
   }
 
   &::after {
@@ -77,6 +77,6 @@ h5, h6 {
 
 .section-summary {
   margin-bottom: 2rem;
-  border: 1px solid $gray-lighter;
+  border: 1px solid $gray-200;
   padding: 1rem;
 }
